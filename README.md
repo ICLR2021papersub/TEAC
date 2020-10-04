@@ -1,6 +1,8 @@
 # TEAC
 
-Trust-Entropy Actor-Critic (TEAC) is an off-policy actor-critic method for continuous control. Paper is underreviewed, link:[Openreview](https://openreview.net/forum?id=cbtV7xGO9pS)
+Trust-Entropy Actor-Critic (TEAC) is an off-policy actor-critic method for continuous control. 
+
+Paper is underreviewed, link:[Openreview](https://openreview.net/forum?id=cbtV7xGO9pS)
 
 Combine the trust region and maximum entropy method, TEAC achieves comparable performance on several Mujoco tasks.
 
@@ -26,6 +28,7 @@ conda create -n teac python=3.6
 pip install -e .
 pip install mujoco-py
 `
+
 Then, we can run the code
 
 `
@@ -39,7 +42,7 @@ MIT license
 ## Citing Trust Entropy Actor Critic
 
 If you reference or use TEAC in your research, please cite:
-`
+```
 @inproceedings{
 anonymous2021teac,
 title={{\{}TEAC{\}}: Intergrating Trust Region and Max Entropy Actor Critic for Continuous Control},
@@ -49,4 +52,4 @@ year={2021},
 url={https://openreview.net/forum?id=cbtV7xGO9pS},
 note={under review}
 }
-`
+```
