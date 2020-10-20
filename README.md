@@ -40,17 +40,17 @@ python teac.py --env Humanoid-v3
 
 ## Results
 
-![](./figures/Humanoid-v3.jpeg)
+![Humanoid-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg)
 
-![](./figures/Ant-v3.jpeg)
+![Ant-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Ant-v3.jpeg)
 
-![](./figures/Swimmer-v3.jpeg)
+![Swimmer-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Swimmer-v3.jpeg)
 
-![](./figures/Walker2d-v3.jpeg)
+![Walker2d-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Walker2d-v3.jpeg)
 
-![](./figures/Hopper-v3.jpeg)
+![Hopper-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Hopper-v3.jpeg)
 
-![](./figures/HalfCheetah-v3.jpeg)
+![HalfCheetah-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/HalfCheetah-v3.jpeg)
 
 ## License
 
