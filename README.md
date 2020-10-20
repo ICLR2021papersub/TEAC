@@ -40,17 +40,17 @@ python teac.py --env Humanoid-v3
 
 ## Results
 
-![](./figures/Humanoid-v3.pdf)
+![](./figures/Humanoid-v3.jpeg)
 
-![](./figures/Ant-v3.pdf)
+![](./figures/Ant-v3.jpeg)
 
-![](./figures/Swimmer-v3.pdf)
+![](./figures/Swimmer-v3.jpeg)
 
-![](./figures/Walker2d-v3.pdf)
+![](./figures/Walker2d-v3.jpeg)
 
-![](./figures/Hopper-v3.pdf)
+![](./figures/Hopper-v3.jpeg)
 
-![](./figures/HalfCheetah-v3.pdf)
+![](./figures/HalfCheetah-v3.jpeg)
 
 ## License
 
