@@ -40,22 +40,22 @@ python teac.py --env Humanoid-v3
 
 ## Results
 
-<figure>
-  <img src="https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg" title="Humanoid" />
-  <figcaption>Humanoid-v3</figcaption>
-</figure>
-
+### Humanoid-v3
 ![](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg "Humanoid-v3")
 
-
+### Ant-v3
 ![Ant-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Ant-v3.jpeg)
 
+### Swimmer-v3
 ![Swimmer-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Swimmer-v3.jpeg)
 
+### Walker2d-v3
 ![Walker2d-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Walker2d-v3.jpeg)
 
+### Hopper-v3
 ![Hopper-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Hopper-v3.jpeg)
 
+### HalfCheetah-v3
 ![HalfCheetah-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/HalfCheetah-v3.jpeg)
 
 ## License
