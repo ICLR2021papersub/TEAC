@@ -22,7 +22,7 @@ mujoco-py==2.0.2.13
 
 First, create a conda env and install all dependencies ( this project needs a mujoco license, see [mujoco_website](https://www.roboti.us/license.html) )
   
- `
+```
 cd /path/to/this/project/
 
 conda create -n teac python=3.6
@@ -30,7 +30,7 @@ conda create -n teac python=3.6
 pip install -e .
 
 pip install mujoco-py
-`
+```
 
 Then, we can run the code
 
