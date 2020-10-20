@@ -38,6 +38,20 @@ Then, we can run the code
 python teac.py --env Humanoid-v3
 `
 
+## Results
+
+![](./figures/Humanoid-v3.pdf)
+
+![](./figures/Ant-v3.pdf)
+
+![](./figures/Swimmer-v3.pdf)
+
+![](./figures/Walker2d-v3.pdf)
+
+![](./figures/Hopper-v3.pdf)
+
+![](./figures/HalfCheetah-v3.pdf)
+
 ## License
 
 MIT license
