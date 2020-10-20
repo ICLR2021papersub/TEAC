@@ -40,6 +40,11 @@ python teac.py --env Humanoid-v3
 
 ## Results
 
+<figure>
+  <img src="https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg" title="Humanoid" />
+  <figcaption>Humanoid-v3</figcaption>
+</figure>
+
 ![](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg "Humanoid-v3")
 
 
