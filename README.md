@@ -40,13 +40,10 @@ python teac.py --env Humanoid-v3
 
 ## Results
 
-![Humanoid-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg)
+![](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Humanoid-v3.jpeg "Humanoid-v3")
 
-<center>Humanoid-v3</center>
 
 ![Ant-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Ant-v3.jpeg)
-
-<center>Ant-v3 </center>
 
 ![Swimmer-v3](https://github.com/ICLR2021papersub/TEAC/blob/master/figures/Swimmer-v3.jpeg)
 
