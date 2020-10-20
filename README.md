@@ -24,8 +24,11 @@ First, create a conda env and install all dependencies ( this project needs a mu
   
  `
 cd /path/to/this/project/
+
 conda create -n teac python=3.6
+
 pip install -e .
+
 pip install mujoco-py
 `
 
